@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+![LunarLander-v2](https://github.com/andrewlohc/rl-openai/blob/master/lunarlander/gif/dqn-lunarlander.gif)
+
 ## OpenAI Gym solutions
 CartPole-v1 - https://gym.openai.com/envs/CartPole-v1/
 
